@@ -1,4 +1,4 @@
-# Psych Online - Server
+# NovaFlare Online - Server
 This is a source code of the game server and website for Psych Online.
 The code is based on the Colyseus and ExpressJS for the backend. And React for the frontend.
 
