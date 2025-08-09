@@ -4,7 +4,7 @@ The code is based on the Colyseus and ExpressJS for the backend. And React for t
 
 # Contributing
 Feel free to make changes or add your own features to the server! <br>
-But please read the [CONTRIBUTING](https://github.com/Snirozu/Funkin-Psych-Online/blob/main/CONTRIBUTING.md) page first!
+But please read the [CONTRIBUTING](https://github.com/NovaFlare-Engine-Concentration/Funkin-Psych-Online/blob/main/CONTRIBUTING.md) page first!
 
 # Compiling
 Install NodeJS and run `npm i` in the project root directory. <br>
