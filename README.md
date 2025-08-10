@@ -23,7 +23,7 @@ Then run `npm test` to test the server locally.
 
 4. 一切正常了想办法把这个测试进程关掉，然后运行 `npm start`
 
-#Docker
+# Docker
 1. 运行构建镜像 `docker build -t online-server .`
 
 2. 运行容器(2567端口) `docker run -d --name online-server -p 2567:2567 online-server`
