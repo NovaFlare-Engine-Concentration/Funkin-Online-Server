@@ -10,8 +10,15 @@ But please read the [CONTRIBUTING](https://github.com/NovaFlare-Engine-Concentra
 Install NodeJS and run `npm i` in the project root directory. <br>
 Then run `npm test` to test the server locally.
 
+# 提示
 这里是MaoPou
 我很想吐槽一下他这个教程不完善hhh
+
+在安装这个服务端之前，首先你得需要以下东西
+1. 你得有个域名和服务器，当然如果你是局域网内联机可以不用管
+2. 你得会用终端
+3. 你得有一个能够理解以下教程的脑袋
+4. 你得有足够的耐心去调试
 
 以下是我摸索出来的awa
 # 非Docker
