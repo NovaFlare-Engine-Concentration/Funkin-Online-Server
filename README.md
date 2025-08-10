@@ -30,7 +30,7 @@ Then run `npm test` to test the server locally.
 
 3. 如果此时服务器没有启动就运行 `docker exec -it online-server /bin/bash` 然后运行 `npm start`
 
-#配置类
+# 配置类
 项目里有个 `.env.example`，这个文件里面告诉了你一些配置信息，你得在项目根目录创建一个 `.env` 并把配置信息粘贴进去
 
 --其他的我还没研究出来hhh By MaoPou
